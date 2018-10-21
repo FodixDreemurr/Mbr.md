@@ -31,7 +31,9 @@ MBR originalmente solo admitía hasta 4 particiones. Más tarde, se ampliaron al
 Existen tres tipos de particiones de disco:
 
 Primaria
+
 Extendida
+
 Lógica
 
 ·__GUID Partition Table__
