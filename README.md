@@ -37,7 +37,8 @@ Extendida
 Lógica
 
 ·__GUID Partition Table__
-xiste un solo tipo de partición, primaria. La cantidad de particiones por disco o volumen RAID es ilimitado.
+
+Existe un solo tipo de partición, primaria. La cantidad de particiones por disco o volumen RAID es ilimitado.
 
 __Firma de unidad arrancable__
 
