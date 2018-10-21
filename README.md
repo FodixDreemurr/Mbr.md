@@ -20,7 +20,7 @@ _Se utiliza para almacenar la tabla de particiones y en el arranque del sistema 
 
 __Tabla  de Particiones__
 
-La información de las particiones se almacena en la tabla de particiones, para lo cual hay 2 formatos en uso hoy en día.
+La información de las particiones se almacena en la tabla de particiones, para la cual hay 2 formatos en uso hoy en día.
 
 __El clásico Master Boot Record y la moderna GUID Partition Table__
 
